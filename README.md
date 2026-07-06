@@ -52,11 +52,6 @@
 
 </div>
 
-
-<div align="center">
-  <img src="https://github-contributions-api.jasonraimondi.com/Prajitsingh1105/contributions?color=58A6FF" alt="3D Contribution Graph" />
-</div>
-
 ---
 ### 📫 Let's Connect
 
